@@ -1,3 +1,4 @@
+HEAD
 # Event Hub – Smart Event Discovery & Ticket Booking System (MERN)
 
 ## Features
@@ -110,3 +111,6 @@ There's no external payment gateway — this is intentional, so the project need
 
 ## Ideas to extend further
 Email the ticket + QR code (Nodemailer), a "forgot password" flow, a wishlist, comments/Q&A per event, an interactive seat map, deployment (Render + Vercel + MongoDB Atlas).
+
+# Event-Hub-Smart-Event-DIscovery-and-ticket-booking-system
+65e96d7ea817ca94fd8d565d2557d37575ac908e
